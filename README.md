@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pptAkz
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently using java
 - 💞️ I’m looking to collaborate on the one who is friendly
 - 📫 How to reach me , no need to reach me .
 
